@@ -1,0 +1,628 @@
+[
+    {
+        "name": "England",
+        "matches": [
+            {
+                "vs": "South Africa",
+                "selfscore": "311/8",
+                "oppScore": "207",
+                "result": "England won by 104 runs"
+            },
+            {
+                "vs": "Pakistan",
+                "selfscore": "334/9",
+                "oppScore": "348/8",
+                "result": "Pakistan won by 14 runs"
+            },
+            {
+                "vs": "Bangladesh",
+                "selfscore": "386/6",
+                "oppScore": "280",
+                "result": "England won by 106 runs"
+            },
+            {
+                "vs": "West Indies",
+                "selfscore": "213/2",
+                "oppScore": "212",
+                "result": "England won by 8 wickets (with 101 balls remaining)"
+            },
+            {
+                "vs": "Afghanistan",
+                "selfscore": "397/6",
+                "oppScore": "247/8",
+                "result": "England won by 150 runs"
+            },
+            {
+                "vs": "Sri Lanka",
+                "selfscore": "212",
+                "oppScore": "232/9",
+                "result": "Sri Lanka won by 20 runs"
+            },
+            {
+                "vs": "Australia",
+                "selfscore": "221",
+                "oppScore": "285/7",
+                "result": "Australia won by 64 runs"
+            },
+            {
+                "vs": "India",
+                "selfscore": "337/7",
+                "oppScore": "306/5",
+                "result": "England won by 31 runs"
+            },
+            {
+                "vs": "New Zealand",
+                "selfscore": "305/8",
+                "oppScore": "186",
+                "result": "England won by 119 runs"
+            },
+            {
+                "vs": "Australia",
+                "selfscore": "226/2",
+                "oppScore": "223",
+                "result": "Reserve day - England won by 8 wickets (with 107 balls remaining)"
+            },
+            {
+                "vs": "New Zealand",
+                "selfscore": "241",
+                "oppScore": "241/8",
+                "result": "Reserve day - Match tied"
+            }
+        ]
+    },
+    {
+        "name": "South Africa",
+        "matches": [
+            {
+                "vs": "England",
+                "selfscore": "207",
+                "oppScore": "311/8",
+                "result": "England won by 104 runs"
+            },
+            {
+                "vs": "Bangladesh",
+                "selfscore": "309/8",
+                "oppScore": "330/6",
+                "result": "Bangladesh won by 21 runs"
+            },
+            {
+                "vs": "India",
+                "selfscore": "227/9",
+                "oppScore": "230/4",
+                "result": "India won by 6 wickets (with 15 balls remaining)"
+            },
+            {
+                "vs": "West Indies",
+                "selfscore": "29/2",
+                "oppScore": "",
+                "result": "No result"
+            },
+            {
+                "vs": "Afghanistan",
+                "selfscore": "131/1",
+                "oppScore": "125",
+                "result": "South Africa won by 9 wickets (with 116 balls remaining) (D/L method)"
+            },
+            {
+                "vs": "New Zealand",
+                "selfscore": "241/6",
+                "oppScore": "245/6",
+                "result": "New Zealand won by 4 wickets (with 3 balls remaining)"
+            },
+            {
+                "vs": "Pakistan",
+                "selfscore": "259/9",
+                "oppScore": "308/7",
+                "result": "Pakistan won by 49 runs"
+            },
+            {
+                "vs": "Sri Lanka",
+                "selfscore": "206/1",
+                "oppScore": "203",
+                "result": "South Africa won by 9 wickets (with 76 balls remaining)"
+            },
+            {
+                "vs": "Australia",
+                "selfscore": "325/6",
+                "oppScore": "315",
+                "result": "South Africa won by 10 runs"
+            }
+        ]
+    },
+    {
+        "name": "Pakistan",
+        "matches": [
+            {
+                "vs": "West Indies",
+                "selfscore": "105",
+                "oppScore": "108/3",
+                "result": "West Indies won by 7 wickets (with 218 balls remaining)"
+            },
+            {
+                "vs": "England",
+                "selfscore": "348/8",
+                "oppScore": "334/9",
+                "result": "Pakistan won by 14 runs"
+            },
+            {
+                "vs": "Sri Lanka",
+                "selfscore": "",
+                "oppScore": "",
+                "result": "Match abandoned without a ball bowled"
+            },
+            {
+                "vs": "Australia",
+                "selfscore": "266",
+                "oppScore": "307",
+                "result": "Australia won by 41 runs"
+            },
+            {
+                "vs": "India",
+                "selfscore": "212/6",
+                "oppScore": "336/5",
+                "result": "India won by 89 runs (D/L method)"
+            },
+            {
+                "vs": "South Africa",
+                "selfscore": "308/7",
+                "oppScore": "259/9",
+                "result": "Pakistan won by 49 runs"
+            },
+            {
+                "vs": "New Zealand",
+                "selfscore": "241/4",
+                "oppScore": "237/6",
+                "result": "Pakistan won by 6 wickets (with 5 balls remaining)"
+            },
+            {
+                "vs": "Afghanistan",
+                "selfscore": "230/7",
+                "oppScore": "227/9",
+                "result": "Pakistan won by 3 wickets (with 2 balls remaining)"
+            },
+            {
+                "vs": "Bangladesh",
+                "selfscore": "315/9",
+                "oppScore": "221",
+                "result": "Pakistan won by 94 runs"
+            }
+        ]
+    },
+    {
+        "name": "West Indies",
+        "matches": [
+            {
+                "vs": "Pakistan",
+                "selfscore": "108/3",
+                "oppScore": "105",
+                "result": "West Indies won by 7 wickets (with 218 balls remaining)"
+            },
+            {
+                "vs": "Australia",
+                "selfscore": "273/9",
+                "oppScore": "288",
+                "result": "Australia won by 15 runs"
+            },
+            {
+                "vs": "South Africa",
+                "selfscore": "",
+                "oppScore": "29/2",
+                "result": "No result"
+            },
+            {
+                "vs": "England",
+                "selfscore": "212",
+                "oppScore": "213/2",
+                "result": "England won by 8 wickets (with 101 balls remaining)"
+            },
+            {
+                "vs": "Bangladesh",
+                "selfscore": "321/8",
+                "oppScore": "322/3",
+                "result": "Bangladesh won by 7 wickets (with 51 balls remaining)"
+            },
+            {
+                "vs": "New Zealand",
+                "selfscore": "286",
+                "oppScore": "291/8",
+                "result": "New Zealand won by 5 runs"
+            },
+            {
+                "vs": "India",
+                "selfscore": "143",
+                "oppScore": "268/7",
+                "result": "India won by 125 runs"
+            },
+            {
+                "vs": "Sri Lanka",
+                "selfscore": "315/9",
+                "oppScore": "338/6",
+                "result": "Sri Lanka won by 23 runs"
+            },
+            {
+                "vs": "Afghanistan",
+                "selfscore": "311/6",
+                "oppScore": "288",
+                "result": "West Indies won by 23 runs"
+            }
+        ]
+    },
+    {
+        "name": "Sri Lanka",
+        "matches": [
+            {
+                "vs": "New Zealand",
+                "selfscore": "136",
+                "oppScore": "137/0",
+                "result": "New Zealand won by 10 wickets (with 203 balls remaining)"
+            },
+            {
+                "vs": "Afghanistan",
+                "selfscore": "201",
+                "oppScore": "152",
+                "result": "Sri Lanka won by 34 runs (D/L method)"
+            },
+            {
+                "vs": "Pakistan",
+                "selfscore": "",
+                "oppScore": "",
+                "result": "Match abandoned without a ball bowled"
+            },
+            {
+                "vs": "Bangladesh",
+                "selfscore": "",
+                "oppScore": "",
+                "result": "Match abandoned without a ball bowled"
+            },
+            {
+                "vs": "Australia",
+                "selfscore": "247",
+                "oppScore": "334/7",
+                "result": "Australia won by 87 runs"
+            },
+            {
+                "vs": "England",
+                "selfscore": "232/9",
+                "oppScore": "212",
+                "result": "Sri Lanka won by 20 runs"
+            },
+            {
+                "vs": "South Africa",
+                "selfscore": "203",
+                "oppScore": "206/1",
+                "result": "South Africa won by 9 wickets (with 76 balls remaining)"
+            },
+            {
+                "vs": "West Indies",
+                "selfscore": "338/6",
+                "oppScore": "315/9",
+                "result": "Sri Lanka won by 23 runs"
+            },
+            {
+                "vs": "India",
+                "selfscore": "264/7",
+                "oppScore": "265/3",
+                "result": "India won by 7 wickets (with 39 balls remaining)"
+            }
+        ]
+    },
+    {
+        "name": "New Zealand",
+        "matches": [
+            {
+                "vs": "Sri Lanka",
+                "selfscore": "137/0",
+                "oppScore": "136",
+                "result": "New Zealand won by 10 wickets (with 203 balls remaining)"
+            },
+            {
+                "vs": "Bangladesh",
+                "selfscore": "248/8",
+                "oppScore": "244",
+                "result": "New Zealand won by 2 wickets (with 17 balls remaining)"
+            },
+            {
+                "vs": "Afghanistan",
+                "selfscore": "173/3",
+                "oppScore": "172",
+                "result": "New Zealand won by 7 wickets (with 107 balls remaining)"
+            },
+            {
+                "vs": "India",
+                "selfscore": "",
+                "oppScore": "",
+                "result": "Match abandoned without a ball bowled"
+            },
+            {
+                "vs": "South Africa",
+                "selfscore": "245/6",
+                "oppScore": "241/6",
+                "result": "New Zealand won by 4 wickets (with 3 balls remaining)"
+            },
+            {
+                "vs": "West Indies",
+                "selfscore": "291/8",
+                "oppScore": "286",
+                "result": "New Zealand won by 5 runs"
+            },
+            {
+                "vs": "Pakistan",
+                "selfscore": "237/6",
+                "oppScore": "241/4",
+                "result": "Pakistan won by 6 wickets (with 5 balls remaining)"
+            },
+            {
+                "vs": "Australia",
+                "selfscore": "157",
+                "oppScore": "243/9",
+                "result": "Australia won by 86 runs"
+            },
+            {
+                "vs": "England",
+                "selfscore": "186",
+                "oppScore": "305/8",
+                "result": "England won by 119 runs"
+            },
+            {
+                "vs": "India",
+                "selfscore": "239/8",
+                "oppScore": "221",
+                "result": "Reserve day - New Zealand won by 18 runs"
+            },
+            {
+                "vs": "England",
+                "selfscore": "241/8",
+                "oppScore": "241",
+                "result": "Reserve day - Match tied"
+            }
+        ]
+    },
+    {
+        "name": "Afghanistan",
+        "matches": [
+            {
+                "vs": "Australia",
+                "selfscore": "207",
+                "oppScore": "209/3",
+                "result": "Australia won by 7 wickets (with 91 balls remaining)"
+            },
+            {
+                "vs": "Sri Lanka",
+                "selfscore": "152",
+                "oppScore": "201",
+                "result": "Sri Lanka won by 34 runs (D/L method)"
+            },
+            {
+                "vs": "New Zealand",
+                "selfscore": "172",
+                "oppScore": "173/3",
+                "result": "New Zealand won by 7 wickets (with 107 balls remaining)"
+            },
+            {
+                "vs": "South Africa",
+                "selfscore": "125",
+                "oppScore": "131/1",
+                "result": "South Africa won by 9 wickets (with 116 balls remaining) (D/L method)"
+            },
+            {
+                "vs": "England",
+                "selfscore": "247/8",
+                "oppScore": "397/6",
+                "result": "England won by 150 runs"
+            },
+            {
+                "vs": "India",
+                "selfscore": "213",
+                "oppScore": "224/8",
+                "result": "India won by 11 runs"
+            },
+            {
+                "vs": "Bangladesh",
+                "selfscore": "200",
+                "oppScore": "262/7",
+                "result": "Bangladesh won by 62 runs"
+            },
+            {
+                "vs": "Pakistan",
+                "selfscore": "227/9",
+                "oppScore": "230/7",
+                "result": "Pakistan won by 3 wickets (with 2 balls remaining)"
+            },
+            {
+                "vs": "West Indies",
+                "selfscore": "288",
+                "oppScore": "311/6",
+                "result": "West Indies won by 23 runs"
+            }
+        ]
+    },
+    {
+        "name": "Australia",
+        "matches": [
+            {
+                "vs": "Afghanistan",
+                "selfscore": "209/3",
+                "oppScore": "207",
+                "result": "Australia won by 7 wickets (with 91 balls remaining)"
+            },
+            {
+                "vs": "West Indies",
+                "selfscore": "288",
+                "oppScore": "273/9",
+                "result": "Australia won by 15 runs"
+            },
+            {
+                "vs": "India",
+                "selfscore": "316",
+                "oppScore": "352/5",
+                "result": "India won by 36 runs"
+            },
+            {
+                "vs": "Pakistan",
+                "selfscore": "307",
+                "oppScore": "266",
+                "result": "Australia won by 41 runs"
+            },
+            {
+                "vs": "Sri Lanka",
+                "selfscore": "334/7",
+                "oppScore": "247",
+                "result": "Australia won by 87 runs"
+            },
+            {
+                "vs": "Bangladesh",
+                "selfscore": "381/5",
+                "oppScore": "333/8",
+                "result": "Australia won by 48 runs"
+            },
+            {
+                "vs": "England",
+                "selfscore": "285/7",
+                "oppScore": "221",
+                "result": "Australia won by 64 runs"
+            },
+            {
+                "vs": "New Zealand",
+                "selfscore": "243/9",
+                "oppScore": "157",
+                "result": "Australia won by 86 runs"
+            },
+            {
+                "vs": "South Africa",
+                "selfscore": "315",
+                "oppScore": "325/6",
+                "result": "South Africa won by 10 runs"
+            },
+            {
+                "vs": "England",
+                "selfscore": "223",
+                "oppScore": "226/2",
+                "result": "Reserve day - England won by 8 wickets (with 107 balls remaining)"
+            }
+        ]
+    },
+    {
+        "name": "Bangladesh",
+        "matches": [
+            {
+                "vs": "South Africa",
+                "selfscore": "330/6",
+                "oppScore": "309/8",
+                "result": "Bangladesh won by 21 runs"
+            },
+            {
+                "vs": "New Zealand",
+                "selfscore": "244",
+                "oppScore": "248/8",
+                "result": "New Zealand won by 2 wickets (with 17 balls remaining)"
+            },
+            {
+                "vs": "England",
+                "selfscore": "280",
+                "oppScore": "386/6",
+                "result": "England won by 106 runs"
+            },
+            {
+                "vs": "Sri Lanka",
+                "selfscore": "",
+                "oppScore": "",
+                "result": "Match abandoned without a ball bowled"
+            },
+            {
+                "vs": "West Indies",
+                "selfscore": "322/3",
+                "oppScore": "321/8",
+                "result": "Bangladesh won by 7 wickets (with 51 balls remaining)"
+            },
+            {
+                "vs": "Australia",
+                "selfscore": "333/8",
+                "oppScore": "381/5",
+                "result": "Australia won by 48 runs"
+            },
+            {
+                "vs": "Afghanistan",
+                "selfscore": "262/7",
+                "oppScore": "200",
+                "result": "Bangladesh won by 62 runs"
+            },
+            {
+                "vs": "India",
+                "selfscore": "286",
+                "oppScore": "314/9",
+                "result": "India won by 28 runs"
+            },
+            {
+                "vs": "Pakistan",
+                "selfscore": "221",
+                "oppScore": "315/9",
+                "result": "Pakistan won by 94 runs"
+            }
+        ]
+    },
+    {
+        "name": "India",
+        "matches": [
+            {
+                "vs": "South Africa",
+                "selfscore": "230/4",
+                "oppScore": "227/9",
+                "result": "India won by 6 wickets (with 15 balls remaining)"
+            },
+            {
+                "vs": "Australia",
+                "selfscore": "352/5",
+                "oppScore": "316",
+                "result": "India won by 36 runs"
+            },
+            {
+                "vs": "New Zealand",
+                "selfscore": "",
+                "oppScore": "",
+                "result": "Match abandoned without a ball bowled"
+            },
+            {
+                "vs": "Pakistan",
+                "selfscore": "336/5",
+                "oppScore": "212/6",
+                "result": "India won by 89 runs (D/L method)"
+            },
+            {
+                "vs": "Afghanistan",
+                "selfscore": "224/8",
+                "oppScore": "213",
+                "result": "India won by 11 runs"
+            },
+            {
+                "vs": "West Indies",
+                "selfscore": "268/7",
+                "oppScore": "143",
+                "result": "India won by 125 runs"
+            },
+            {
+                "vs": "England",
+                "selfscore": "306/5",
+                "oppScore": "337/7",
+                "result": "England won by 31 runs"
+            },
+            {
+                "vs": "Bangladesh",
+                "selfscore": "314/9",
+                "oppScore": "286",
+                "result": "India won by 28 runs"
+            },
+            {
+                "vs": "Sri Lanka",
+                "selfscore": "265/3",
+                "oppScore": "264/7",
+                "result": "India won by 7 wickets (with 39 balls remaining)"
+            },
+            {
+                "vs": "New Zealand",
+                "selfscore": "221",
+                "oppScore": "239/8",
+                "result": "Reserve day - New Zealand won by 18 runs"
+            }
+        ]
+    }
+]
